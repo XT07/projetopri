@@ -1,0 +1,19 @@
+{
+  "name": "projetopri",
+  "version": "1.0.0",
+  "description": "e-comerce de roupas femininas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Luiz Felipe Radoll Cordeiro, Djalma",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.1",
+    "express-session": "^1.18.1",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.11.3",
+    "sequelize": "^6.37.4"
+  }
+}
